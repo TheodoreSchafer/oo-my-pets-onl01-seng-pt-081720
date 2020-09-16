@@ -16,5 +16,5 @@ class Dog
     @@all
   end
 
-  # code goes here
+
 end
