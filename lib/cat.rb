@@ -1,6 +1,7 @@
 class Cat
 
   def initialize
-  end 
+    
+  end
   # code goes here
 end
