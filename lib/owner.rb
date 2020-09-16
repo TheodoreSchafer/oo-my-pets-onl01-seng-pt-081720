@@ -36,5 +36,8 @@ class Owner
   def self.reset_all
     self.all.clear
   end
+
+
+  
   # code goes here
 end
