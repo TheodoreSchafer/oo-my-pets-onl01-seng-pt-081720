@@ -6,13 +6,13 @@ class Owner
 
 
   def initialize(name)
-    @species = human 
+    @species = species  
     @name = name
 
   end
 
   def species
-  
+
   end
 
   def say_species
