@@ -24,6 +24,7 @@ class Owner
   end
 
 
-  
+  def self.all
+    @@all
   # code goes here
 end
