@@ -39,7 +39,7 @@ class Owner
 
 
 
-  def cats(cat)
+  def cats
 
   end
 
