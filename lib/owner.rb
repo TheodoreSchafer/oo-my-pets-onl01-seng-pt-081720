@@ -42,4 +42,16 @@ class Owner
   def cats
 
   end
+
+  def dogs
+  end 
+
+  def buy_cat
+  end 
+
+  def buy_dog
+  end 
+
+  def walk_dogs
+  end
 end
