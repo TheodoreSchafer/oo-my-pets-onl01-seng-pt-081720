@@ -39,7 +39,7 @@ class Owner
 
 
 
-  def cats
-    owner.collect.cats
+  def cats(cat)
+  
   end
 end
