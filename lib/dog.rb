@@ -1,5 +1,5 @@
 class Dog
-  attr_accessor :name, :owner
+  attr_accessor :name, :Owner
   attr_reader :mood
 
   def initialize(name)
