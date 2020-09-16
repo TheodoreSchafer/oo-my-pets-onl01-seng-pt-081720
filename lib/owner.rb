@@ -44,13 +44,13 @@ class Owner
   end
 
   def dogs
-  end 
+  end
 
   def buy_cat
-  end 
+  end
 
   def buy_dog
-  end 
+  end
 
   def walk_dogs
   end
