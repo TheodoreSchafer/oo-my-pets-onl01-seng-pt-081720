@@ -2,6 +2,7 @@ class Owner
   attr_accessor :name, :species
 
   def initialize(name)
+    @species = species
     @name = name
 
   end
@@ -10,6 +11,6 @@ class Owner
   end
 
   def say_species
-  end 
+  end
   # code goes here
 end
