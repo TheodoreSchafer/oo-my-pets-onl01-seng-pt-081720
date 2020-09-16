@@ -43,11 +43,11 @@ class Owner
 
   end
 
-  def dogs(dog)
+  def dogs
   end
 
   def buy_cat
-    
+
 
   end
 
