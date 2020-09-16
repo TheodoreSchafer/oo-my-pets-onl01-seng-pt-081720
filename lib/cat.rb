@@ -12,5 +12,7 @@ class Cat
   def mood
     @mood
   end
-  # code goes here
+
+  
+
 end
