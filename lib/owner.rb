@@ -47,6 +47,7 @@ class Owner
   end
 
   def buy_cat
+    
   end
 
   def buy_dog
@@ -62,6 +63,6 @@ class Owner
   end
 
   def list_pets
-  
+
   end
 end
