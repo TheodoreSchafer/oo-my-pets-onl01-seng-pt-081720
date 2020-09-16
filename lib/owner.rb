@@ -40,6 +40,6 @@ class Owner
 
 
   def cats
-    
+    owner.collect.cats
   end
 end
