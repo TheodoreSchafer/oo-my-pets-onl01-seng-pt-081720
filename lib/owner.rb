@@ -38,6 +38,6 @@ class Owner
   end
 
 
-  
+
   
 end
